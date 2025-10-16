@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-26 Anos,
+27 Anos,
 Formado em Administração e Cursando Ciência da Computação.
 Possuo experiência em análise de dados e também sou apaixonado por IA/Machine Learning. procuro estar sempre pondo em prática
 meus conhecimentos em dados e aprendendo sobre novas tecnologias de armazenamento em clouds a algoritmos de Machine Learning.
@@ -13,6 +13,8 @@ Possuo diversas certificações na área como:
 - Cientista de dados (XP Educação)
 - AWS Practitioner (CLF-C02)
 - Engenheiro de Machine Learning (XP Educação)
+- Supervised Learning with scikit-learn (DataCamp) 
+
 
 ## 🛠 Habilidades
 Modelagem de Dados (relacional e não relacional)
@@ -38,19 +40,19 @@ Monitoramento e Observabilidade
 Manipulação de API's
 ## Stacks utilizadas
 
-**Manipulação de dados:** SQL,Python (Pandas),Pyspark
+**Manipulação de dados:** SQL, Python (Pandas), Pyspark, dbt
 
 **ETL e ELT:** Python, Pentaho
 
 **DataViz:** Power Bi e Python(Streamlit e PyPlot)
 
-**Cloud:** AWS 
+**Cloud:** AWS, Azure, Astronomer
 
 **Bancos de dados:** S3 e PostgreSQL
 
 **Versionamento:** Git e GitHub
 
-**Orquestração de Pipelines:** dbt e AirFlow
+**Orquestração de Pipelines:** AirFlow
 
 **Conteinirização:** Docker 
 
